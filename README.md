@@ -1,4 +1,4 @@
-# MEMES?
+# MEMES? For Deployment!
 
 That's a dumb simple repo for having some memes for deployments.  
 Just to add a bit of fun when everything might get sad.
