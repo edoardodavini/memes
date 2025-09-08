@@ -3,6 +3,9 @@
 That's a dumb simple repo for having some memes for deployments.  
 Just to add a bit of fun when everything might get sad.
 
+## How it looks?
+<img width="509" height="328" alt="image" src="https://github.com/user-attachments/assets/14b05c24-f0d8-4f39-8444-a8a6fa0d9f58" />
+
 
 ## How to use it?
 
